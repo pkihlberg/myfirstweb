@@ -1,3 +1,6 @@
+// Normalize css
 @import "~normalize.css/normalize.css";
 
-@import "joseph.css";
+// Sass imports
+@import "_joseph";
+@import "_gallery";
